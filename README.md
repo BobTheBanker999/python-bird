@@ -7,7 +7,7 @@ I made this in about 10 minutes for a youtube video.
 
 Type the following to run:
 
-```bash
+```sh
 $ # use 'cd' to navigate to the folder with this file
 $ python3 flappybird.py
 ```
